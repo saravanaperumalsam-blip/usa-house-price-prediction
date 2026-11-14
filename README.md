@@ -69,8 +69,8 @@ Both apps take the same inputs: average area income, house age, rooms, bedrooms 
 ## 🚀 How to run
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/saravanaperumalsam-blip/usa-house-price-prediction.git
+cd usa-house-price-prediction
 pip install -r requirements.txt
 ```
 
