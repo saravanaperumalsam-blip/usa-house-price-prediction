@@ -1,0 +1,7 @@
+.venv*/
+.gradio/
+flagged/
+.ipynb_checkpoints/
+__pycache__/
+spam.csv
+usa_housing_price_regressor.joblib
